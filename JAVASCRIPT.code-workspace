@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "JAVASCRIPT",
+			"path": "../JAVASCRIPT"
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "/MY PROFILE/assignment.html",
+		"liveServer.settings.port": 5501
+	}
+}
